@@ -1,0 +1,13 @@
+[alternatives {
+  transcript: "hello mister in, how are you doing today can you please tell us what time do you normally wake up and go to the gym"
+  confidence: 0.9410506
+}
+, alternatives {
+  transcript: " oh yeah I wake up around 4:30 in the morning if you are my clothes and get everything ready and I\'m at the gym by 5 I open with them and I do my workout it takes me like an hour to minute 2 hours and then I must be home before 8 and prepare my food for the money and then you can I start work"
+  confidence: 0.9148374
+}
+, alternatives {
+  transcript: " call Katie King Koopa. And can you please explain how you what time you start your work after you get to work"
+  confidence: 0.887949
+}
+]
